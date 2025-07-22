@@ -1,0 +1,460 @@
+[33mcommit 562cd98da0997421af240310218bdb19d4cf4dc8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon Jul 14 10:15:58 2025 +0530
+
+    Added createdAt and updatedAt to update APIs
+
+[33mcommit 297c98aaf55e8de8b3fde58401ae7ad8edfb6757[m
+Merge: 02e3614 86a421b
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat Jul 12 12:42:00 2025 +0530
+
+    Merge pull request #6 from arpankumarde/populate-students
+    
+    Added Remaining evaluator apis
+
+[33mcommit 86a421be950090e00ee4574326eb25c0fc2d7137[m
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Sat Jul 12 10:17:12 2025 +0530
+
+    removed ObjectId to ensure string match
+
+[33mcommit 011c139db9fec0f8dd3dcc7158a16db53df78a7b[m
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Fri Jul 11 22:45:07 2025 +0530
+
+    added + modified remaining evaluator apis
+
+[33mcommit 02e361499bbd2bca3b44c491dff59acfe23a231a[m
+Merge: e57539e 35ccad3
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Thu Jul 10 15:36:19 2025 +0530
+
+    Merge pull request #5 from arpankumarde/populate-assignments
+    
+    Populate assignments in assignment result service
+
+[33mcommit 35ccad395ae5eea20efbdbf672269d86dbc6b03b[m
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Thu Jul 10 12:16:06 2025 +0530
+
+    populate assignments in assignment result service
+
+[33mcommit e57539e831e911f1d22c56e63a0676965963f9bc[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Wed Jul 9 08:03:23 2025 +0530
+
+    added evaluator API
+
+[33mcommit be00578b3a21cd3254d6a13328943aa8133f8b5b[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Wed Jul 9 08:02:33 2025 +0530
+
+    Added API
+
+[33mcommit 6dbdd1eae26623c19a0da18071e3cfcdd0bc583c[m
+Merge: b9f02f9 ac255c2
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat Jul 5 12:52:24 2025 +0530
+
+    Merge branch 'main' of https://github.com/dexter-onboard/codeKerdos-backend
+
+[33mcommit b9f02f96f944b7f87eb021535e1b9abb6d119b7b[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat Jul 5 12:52:10 2025 +0530
+
+    added fixes to get courses by assgiment id
+
+[33mcommit ac255c2e8b23f7369e537d8c9aa2ffc2efc13198[m
+Merge: 43732b0 fd9b690
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Thu Jul 3 20:40:42 2025 +0530
+
+    Merge pull request #4 from arpankumarde/main
+    
+    Removed legacy CourseNotes controllers
+
+[33mcommit fd9b6903df34b295be37a7e026a977ddfce51f5c[m
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Thu Jul 3 15:56:34 2025 +0530
+
+    removed legacy CourseNotes controllers
+
+[33mcommit 43732b076a58748d57b76044e5485b2ceafcf2d6[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Wed Jul 2 16:29:19 2025 +0530
+
+    Added fixes to course API
+
+[33mcommit 0c95bfd8481581f29965edb2b7a176166cd2eecc[m
+Merge: b5cdace b6f0915
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Wed Jul 2 16:13:55 2025 +0530
+
+    Merge pull request #1 from arpankumarde/feature-notes-separation
+    
+    Feature notes separation
+
+[33mcommit b6f0915178149a845cb76699635afe0c4cd6324a[m
+Merge: 0344943 b5cdace
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Tue Jul 1 23:14:51 2025 +0530
+
+    Merge branch 'main' of https://github.com/dexter-onboard/codeKerdos-backend into feature-notes-separation
+
+[33mcommit b5cdacee9fe53e800be6c1fd70c9f80732a05e5c[m
+Merge: ff91611 9a551e0
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon Jun 30 22:56:18 2025 +0530
+
+    Merge branch 'main' of https://github.com/dexter-onboard/codeKerdos-backend
+
+[33mcommit ff91611e86bd6abdaefd156ffde103ecd7a47951[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon Jun 30 22:55:59 2025 +0530
+
+    Added due date to course schema
+
+[33mcommit 9a551e09b3de7036fceaaa9a2d634f4b7b3d511a[m
+Merge: 3884658 affc1e5
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon Jun 30 22:26:28 2025 +0530
+
+    Merge pull request #3 from arpankumarde/get-assignment-results-by-student
+    
+    Added an API to fetch Assignment results of each student
+
+[33mcommit affc1e5cdc0c969cda531ac3442d75c734fbdac5[m
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Mon Jun 30 20:01:08 2025 +0530
+
+    added get assignment results by student api
+
+[33mcommit 38846584fbc9cccec8cd491cee0ac2773c78f325[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Jun 29 16:04:59 2025 +0530
+
+    added other fixes
+
+[33mcommit 46e2b01a34e8b973d91db3ee675c5e9ecc3a46b9[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Jun 29 13:19:17 2025 +0530
+
+    added evaluator assignment check APIs
+
+[33mcommit e0c530e407f5df0703246096d640950195fbe3d1[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Jun 29 13:11:43 2025 +0530
+
+    added evaluator module
+
+[33mcommit 6699690d6e59c8a2ba3293231b0eab51dd276721[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Fri Jun 27 19:32:39 2025 +0530
+
+    added fixes to corses API
+
+[33mcommit 25344e9f5bce8e75956079193845539779a00825[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Wed Jun 25 09:04:51 2025 +0530
+
+    Added get courses by assignment ID API
+
+[33mcommit d1ff5f4404fe46fac964e5a921531f484f0d7f19[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon Jun 23 15:45:14 2025 +0530
+
+    added assigment populate in the course
+
+[33mcommit 2d8451ca4282591a311362954b5b463f223d1fac[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Jun 22 19:09:30 2025 +0530
+
+    added assignment result controller
+
+[33mcommit 6aea3958928e2149f3b12bf4e316ed1ae2e7eab9[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Jun 22 17:44:33 2025 +0530
+
+    added assignment result API
+
+[33mcommit e6eb8ab04acb27aa340a87730be082b1d040d1d6[m
+Merge: 0ab175f 5d36af5
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Jun 22 13:27:25 2025 +0530
+
+    Merge branch 'main' of https://github.com/dexter-onboard/codeKerdos-backend
+
+[33mcommit 0ab175f6c173087b80d981f50febd1a45fcc332c[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Jun 22 13:25:03 2025 +0530
+
+    feat/ added assignment API changes
+
+[33mcommit 5d36af5e8f641ca7eb73b66def66821094311efe[m
+Merge: 843de2c f0ad99e
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat Jun 21 16:02:30 2025 +0530
+
+    Merge pull request #2 from arpankumarde/notes-extraction
+    
+    added notes extraction functionality
+
+[33mcommit f0ad99e13695b2ac5ea3151595295e858c467f32[m
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Fri Jun 20 00:00:03 2025 +0530
+
+    added notes extraction functionality
+
+[33mcommit 034494396004d7c97b66d287360f4ed1fc614698[m
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Thu Jun 19 20:11:29 2025 +0530
+
+    binded courses to notes and added API endpoints
+
+[33mcommit 843de2c696025b3a7f8cb319b5c68c4cbc35f042[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Thu Jun 19 14:30:12 2025 +0530
+
+    Added assignment result schema
+
+[33mcommit 8670a2571b07d9f2657daf95dac47bbb605e1da4[m
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Wed Jun 18 23:54:55 2025 +0530
+
+    added notes schema and basic resource
+
+[33mcommit 9847fb0aebdf857281bc549300c296bb32bac2d9[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Tue Jun 17 22:54:33 2025 +0530
+
+    fixed env vars
+
+[33mcommit e66ec6ddb8efacde3801843c9332ca3b846badca[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon Jun 9 00:20:00 2025 +0530
+
+    added assignment admin API
+
+[33mcommit e8b049009d3c86bc2135593747568b35e4d457b2[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat Jun 7 17:05:05 2025 +0530
+
+    Added new url whitelist
+
+[33mcommit 86e20139c03b3db7f5af14ced590b5995aaa12fe[m
+Merge: bdd31c4 c610df8
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon Jun 2 08:22:10 2025 +0530
+
+    Merge branch 'main' of https://github.com/dexter-onboard/codeKerdos-backend
+
+[33mcommit bdd31c4c450a5a2ebf0935dc9c6944cca069513e[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon Jun 2 08:20:24 2025 +0530
+
+    feat/ added percentile approach
+
+[33mcommit c610df8e376be293980a2010994e6ec23b123b4c[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat May 31 17:11:41 2025 +0530
+
+    feat/added codeFiles to liveclass
+
+[33mcommit f81ef908c9684c73ce2d3e9a968653d2be546291[m
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Wed May 28 21:37:23 2025 +0530
+
+    added assignments on course schema
+
+[33mcommit 08b719d40bec07ac4e98049270b989926d279939[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon May 26 10:09:02 2025 +0530
+
+    Added all APIs fixes in quiz result
+
+[33mcommit b247bde0bd33a759a68eec4b452b3af41906bd04[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon May 26 04:31:27 2025 +0530
+
+    Added getStudent courses API and leaderboard API
+
+[33mcommit 1c3d5edd06156d461fcc68c93c88632568d624e8[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon May 26 03:55:50 2025 +0530
+
+    Added leaderboard APIs
+
+[33mcommit 75a81006be1bc1875b9c1c16f0274144b6c16b9f[m
+Author: arpankumarde <134305585+arpankumarde@users.noreply.github.com>
+Date:   Fri May 23 22:41:45 2025 +0530
+
+    updated paymentHistory fields and remove authguard
+
+[33mcommit 03a531dae2e144b8144791e56ce111fddc735f63[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Fri May 23 12:16:21 2025 +0530
+
+    Added payment history schema
+
+[33mcommit 6ae8a21285b5a6735c173995ae47a3de51e4b100[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat May 10 13:13:21 2025 +0530
+
+    Added all file APIs
+
+[33mcommit 9ca4456fc485802ed5cf1c247b628a4a9f981fa8[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat May 10 11:36:31 2025 +0530
+
+    updated questions and options dtos
+
+[33mcommit e0b6e35504e7c0566fe77173c4e4c24b0d94766f[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat May 10 11:29:10 2025 +0530
+
+    Added file upload API
+
+[33mcommit 03ba89983c037c2c362bc6799b61bf364017618a[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Mon Apr 28 05:52:57 2025 +0530
+
+    feat/ enabled title to quizes
+
+[33mcommit 3e625eab8fd303e0a480c3d6fd7a8b9ef0b41346[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat Apr 26 07:51:16 2025 +0530
+
+    Added course populate on get liveclasses APIs
+
+[33mcommit e7f15bcf28adeaa070331c994477bdba81d1372a[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Fri Apr 11 16:19:46 2025 +0530
+
+    added adminAPI  fixes
+
+[33mcommit f8b957a9e02bd8e97657e68b9c6451229cf9cb9e[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Fri Apr 11 07:20:53 2025 +0530
+
+    feat/ added testing fixes
+
+[33mcommit 00cf44427a3f15eb3d207408af0188632162b928[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Thu Apr 10 02:02:12 2025 +0530
+
+    feat/added is attempted key to get live clases by course api
+
+[33mcommit 92ebc68f2b4a04d8affbdf9cdbd53f32a4dd5a7f[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Tue Apr 8 22:24:30 2025 +0530
+
+    Added all code fixes
+
+[33mcommit 4337ecfcc8817d79e0677a350980938ad4142307[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Tue Apr 8 21:45:06 2025 +0530
+
+    Added all changes
+
+[33mcommit 0a2f4a3bacb26b0f5d6868a95c8c00a779cd2ebb[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Apr 6 19:47:03 2025 +0530
+
+    Populated question data
+
+[33mcommit 17f7679b69483415c8f057f8b414b87b34857579[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat Apr 5 14:28:39 2025 +0530
+
+    added score to question response
+
+[33mcommit 67339807cd45b87678c831d87f62c8c1455cf402[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Fri Apr 4 14:32:06 2025 +0530
+
+    whitelisted other urls
+
+[33mcommit add070ba29578320fa7f2b282dfe42dce1fb7419[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Mar 30 18:47:09 2025 +0530
+
+    added null to correct answer
+
+[33mcommit 4285197e7d541a36a5af2fd35df9d0745648a61b[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Mar 30 18:38:47 2025 +0530
+
+    added all data
+
+[33mcommit a6cbf51188bd0cf35c6aefbfc03a6d23c7997243[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Mar 30 17:48:23 2025 +0530
+
+    added all checks
+
+[33mcommit 14ab059497d0b616f5b434ac1d3d28dffcddeb08[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Mar 30 17:28:02 2025 +0530
+
+    revoked previous change in question schema
+
+[33mcommit 2b46d601eaf8e7aa1a803c2d11a5efd253d187ad[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Mar 30 17:24:50 2025 +0530
+
+    added changes
+
+[33mcommit 71cec6bf92ab8457a1b6fa23d21a9fdec1ef8f5e[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Mar 30 17:14:01 2025 +0530
+
+    Added quiz result module and features
+
+[33mcommit 0321a72299a025d1b61280ad6718a20534179fc6[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sun Mar 30 02:05:09 2025 +0530
+
+    added all  questions responses
+
+[33mcommit 5f4e92dee5cc5523ae71b471b127b5c3bc9335d3[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Sat Mar 22 20:06:22 2025 +0530
+
+    feat/ populated questions in get quiz API
+
+[33mcommit 5c08efc99b5631617571bc1e7bbc8fccb6c9aa23[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Wed Mar 19 19:45:54 2025 +0530
+
+    added single choice enum
+
+[33mcommit 5c68b7d55864ae0e6f6f6abebbe282faa9982fb2[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Tue Mar 18 09:38:18 2025 +0530
+
+    feat/ added quiz and questions module
+
+[33mcommit 1449e1aa5ba67a4092048436afc0352fab4656cb[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Tue Mar 18 09:04:09 2025 +0530
+
+    feat/ added question module
+
+[33mcommit bc587e948275c5f737ccd3777fd9f12ab2a8e7c1[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Tue Mar 18 08:44:15 2025 +0530
+
+    added quiz module
+
+[33mcommit 7e65e6bec1da0ad6728e59cd3776fe85c2665eba[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Tue Mar 18 08:26:28 2025 +0530
+
+    feat/ added quiz and question schema
+
+[33mcommit 835724749b6cd02f53575478906ba4d262241d90[m
+Author: Sudhendra Kumar Singh <90135799+dexter-onboard@users.noreply.github.com>
+Date:   Wed Mar 12 09:48:07 2025 +0530
+
+    Added pay u APIs
