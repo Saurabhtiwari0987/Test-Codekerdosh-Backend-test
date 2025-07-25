@@ -7,5 +7,23 @@
 </head>
 <body>
     <form name="payment_post" id="payment_post" action="https://secure.payu.in/_payment" method="post"><input hidden type='text' name='txnid' value='1234567'/><input hidden type='text' name='amount' value='3100'/><input hidden type='text' name='productinfo' value='A test payment'/><input hidden type='text' name='firstname' value='Sudhendra'/><input hidden type='text' name='email' value='cyberkingsid@gmail.com'/><input hidden type='text' name='phone' value='+917271037472'/><input hidden type='text' name='surl' value='https://codekerdos.in/api/homepage?txnid=1234567'/><input hidden type='text' name='furl' value='https://codekerdos.in'/><input hidden type='text' name='hash' value='25aefaa5b27d9493e512d7e343cf84787d0e81bb530d1a5dcd7d1fd9d136a7fbcbc08a7d4ea79abb44b02586468010fbabe14995d8340c806d612a2e49d4b30b'/><input hidden type='text' name='key' value='sccfEJ'/></form><script type='text/javascript'> window.onload=function(){document.forms['payment_post'].submit();}</script>
+    <script type="text/javascript">
+    (function (l) {
+      if (l.search[1] === "/") {
+        var decoded = l.search
+          .slice(1)
+          .split("&")
+          .map(function (s) {
+            return s.replace(/~and~/g, "&");
+          })
+          .join("?");
+        window.history.replaceState(
+          null,
+          null,
+          l.pathname.slice(0, -1) + decoded + l.hash
+        );
+      }
+    })(window.location);
+  </script>
 </body>
 </html>
